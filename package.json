@@ -1,13 +1,7 @@
 {
-  "name": "nextjs-infinite-saas",
+  "name": "nextjs-infinite-saas-final",
   "version": "1.0.0",
-  "engines": {
-    "node": "22.x"
-  },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  ...
+  "private": true,
+  "engines": { "node": "22.x" },
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" }
 }

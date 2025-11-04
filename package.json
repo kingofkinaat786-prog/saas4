@@ -1,21 +1,13 @@
 {
-  "name": "nextjs-infinite-saas-final",
+  "name": "nextjs-infinite-saas",
   "version": "1.0.0",
-  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
-  "engines": {
-    "node": "18.x"
-  },
-  "dependencies": {
-    "next": "14.0.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "qrcode": "1.5.1",
-    "pg": "8.10.0",
-    "jsonwebtoken": "9.0.0"
-  }
+  ...
 }
